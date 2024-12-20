@@ -1,7 +1,7 @@
 # Algo🐵_Study
 
 ## 🧑💻 Member List
-| Nickname | [@M00NPANG](https://github.com/M00NPANG) | [@M00NPANG](https://github.com/M00NPANG) | [@M00NPANG](https://github.com/M00NPANG) | [@M00NPANG](https://github.com/M00NPANG) | [@M00NPANG](https://github.com/M00NPANG) |[@M00NPANG](https://github.com/M00NPANG) |[@M00NPANG](https://github.com/M00NPANG) |
+| Nickname | [@M00NPANG](https://github.com/M00NPANG) | [@csjsseo](https://github.com/csjsseo) | [@M00NPANG](https://github.com/M00NPANG) | [@M00NPANG](https://github.com/M00NPANG) | [@M00NPANG](https://github.com/M00NPANG) |[@M00NPANG](https://github.com/M00NPANG) |[@M00NPANG](https://github.com/M00NPANG) |
 | :------: | :--------------------------------------------: | :--------------------------------------: | :----------------------------------: | :------------------------------------: | :--------------------------------------: |:----------------------------------: |:----------------------------------: |
 | Language |                  Java                     |                 Java                     |                Java                 |                  Java                  |                   Java                   |  Java                     |  Java                     |
 
