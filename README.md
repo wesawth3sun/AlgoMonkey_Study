@@ -12,6 +12,7 @@
 ## 🤝 Commit Rules
 - BOJ: BOJ_문제번호
 - 프로그래머스: PG_문제번호
+  -- 프로그래머스는 md 파일로 올려도 무방합니다!
 
 - Commit & Push 하기 전 꼭 Fetch하기!! ReadeMe가 자주 바뀝니당
 ```
