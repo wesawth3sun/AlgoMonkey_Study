@@ -1,4 +1,4 @@
-package BJ_01;
+package BOJ_01;
 
 public class p2557 {
     public static void main(String[] args) {

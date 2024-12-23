@@ -1,17 +1,17 @@
-package BJ_01;
+package BOJ_01;
 
 import java.io.*;
 
-public class p18108 {
+public class p10926 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-        int year = Integer.parseInt(br.readLine());
-        int answer = year-543;
+        String id = br.readLine();
 
-        bw.write(answer+"\n");
+        bw.write(id+"??!"+"\n");
         bw.flush();
         bw.close();
+
     }
 }

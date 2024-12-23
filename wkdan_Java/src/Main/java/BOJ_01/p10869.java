@@ -1,20 +1,22 @@
-package BJ_01;
-
+package BOJ_01;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class p11382 {
+
+public class p10869 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         StringTokenizer st = new StringTokenizer(br.readLine());
+        int A = Integer.parseInt(st.nextToken());
+        int B = Integer.parseInt(st.nextToken());
 
-        long A = Long.parseLong(st.nextToken());
-        long B = Long.parseLong(st.nextToken());
-        long C = Long.parseLong(st.nextToken());
-
-        bw.write(A+B+C+"\n");
+        bw.write(A+B+"\n");
+        bw.write(A-B+"\n");
+        bw.write(A*B+"\n");
+        bw.write(A/B+"\n");
+        bw.write(A%B+"\n");
         bw.flush();
         bw.close();
     }
