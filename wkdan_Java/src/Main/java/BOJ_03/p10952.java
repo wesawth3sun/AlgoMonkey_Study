@@ -1,25 +1,24 @@
-package BJ_03;
+package BOJ_03;
 
 import java.io.*;
 import java.util.StringTokenizer;
 
-import java.io.*;
-import java.util.StringTokenizer;
-
-public class p11021 {
+public class p10952 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-        int t = Integer.parseInt(br.readLine());
 
-        for (int i = 1; i <= t; i++) {
+        for (int i = 1;; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine());
+            int x = Integer.parseInt(st.nextToken());
+            int y = Integer.parseInt(st.nextToken());
+            if (x != 0 && y != 0) {
+                bw.write(x + y + "\n");
+            } else {
+                break;
 
-            int a = Integer.parseInt(st.nextToken());
-            int b = Integer.parseInt(st.nextToken());
-
-            bw.write("Case #"+i+": "+ (a+b) +"\n");
+            }
         }
         bw.flush();
         bw.close();

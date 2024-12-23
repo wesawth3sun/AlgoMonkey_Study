@@ -1,7 +1,6 @@
-package BJ_03;
+package BOJ_03;
 
 import java.io.*;
-import java.util.StringTokenizer;
 
 public class p25314 {
     public static void main(String[] args) throws IOException {
