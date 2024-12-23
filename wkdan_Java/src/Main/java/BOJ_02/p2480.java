@@ -1,4 +1,4 @@
-package BJ_02;
+package BOJ_02;
 
 import java.io.*;
 import java.util.StringTokenizer;
