@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ede8287f-98bf-4f4c-9c3b-4c3a74092e62" name="변경" comment="PG: PG_42576&#10;&#10;&#10;- 완주하지 못한 선수 문제 완료">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wkdan_Java/src/Main/java/PG_week2/PG_42577.md" afterDir="false" />
+    <list default="true" id="ede8287f-98bf-4f4c-9c3b-4c3a74092e62" name="변경" comment="PG: PG_42577&#10;&#10;&#10;- 전화번호 목록 문제 완료">
+      <change afterPath="$PROJECT_DIR$/wkdan_Java/src/Main/java/PG_week2/PG_42578.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +208,7 @@
       <workItem from="1734942074995" duration="6160000" />
       <workItem from="1734999020704" duration="11000" />
       <workItem from="1734999490705" duration="35169000" />
-      <workItem from="1735302633855" duration="5126000" />
+      <workItem from="1735302633855" duration="8008000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Baekjoon 1단계(입출력과 사칙연산) 문제 풀이 완료&#10;&#10;&#10;- 2557: Hello World&#10;- 1000: A+B&#10;- 1001: A-B&#10;- 10998: A*B&#10;- 1008: A/B&#10;- 10869: 사칙연산&#10;- 10926: ??!&#10;- 18108: 1998년생인 내가 태국에서는 2541년생?!&#10;- 10430: 나머지&#10;- 2588: 곱셈&#10;- 11382: 꼬마 정민&#10;- 10171: 고양이&#10;- 10172: 개">
       <option name="closed" value="true" />
@@ -322,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735038287698</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="PG: PG_42577&#10;&#10;&#10;- 전화번호 목록 문제 완료">
+      <option name="closed" value="true" />
+      <created>1735308026811</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735308026811</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +349,8 @@
     <MESSAGE value="BOJ: 6단계(심화) 7번 제외하고 완료" />
     <MESSAGE value="PG: PG_1845&#10;&#10;&#10;- 포켓몬 문제 풀이 완료" />
     <MESSAGE value="PG: PG_42576&#10;&#10;&#10;- 완주하지 못한 선수 문제 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="PG: PG_42576&#10;&#10;&#10;- 완주하지 못한 선수 문제 완료" />
+    <MESSAGE value="PG: PG_42577&#10;&#10;&#10;- 전화번호 목록 문제 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="PG: PG_42577&#10;&#10;&#10;- 전화번호 목록 문제 완료" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
