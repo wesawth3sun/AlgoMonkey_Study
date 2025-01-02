@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ede8287f-98bf-4f4c-9c3b-4c3a74092e62" name="변경" comment="PG: PG_42578&#10;&#10;&#10;- 의상 목록 풀이 완료">
-      <change afterPath="$PROJECT_DIR$/wkdan_Java/src/Main/java/PG_week2/PG_42579.md" afterDir="false" />
+    <list default="true" id="ede8287f-98bf-4f4c-9c3b-4c3a74092e62" name="변경" comment="PG: PG_42579&#10;&#10;&#10;- 베스트앨범 풀이 완료">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,73 +54,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.C:/Users/JMY/IdeaProjects/AlgoMonkey_Study/wkdan_Java/build.gradle.executor": "Run",
-    "Gradle.C:/Users/JMY/IdeaProjects/AlgoMonkey_Study/wkdan_Java/settings.gradle.executor": "Run",
-    "Gradle.wkdan_Java [:BJ_01.main()].executor": "Run",
-    "Gradle.wkdan_Java [:Main.main()].executor": "Run",
-    "Gradle.wkdan_Java [:PG_42577.main()].executor": "Run",
-    "Gradle.wkdan_Java [:p1000.main()].executor": "Run",
-    "Gradle.wkdan_Java [:p1001.main()].executor": "Run",
-    "Gradle.wkdan_Java [:p1008.main()].executor": "Run",
-    "Gradle.wkdan_Java [:p10430.main()].executor": "Run",
-    "Gradle.wkdan_Java [:p10869.main()].executor": "Run",
-    "Gradle.wkdan_Java [:p10926.main()].executor": "Run",
-    "Gradle.wkdan_Java [:p10998.main()].executor": "Run",
-    "Gradle.wkdan_Java [:p11382.main()].executor": "Run",
-    "Gradle.wkdan_Java [:p18108.main()].executor": "Run",
-    "Gradle.wkdan_Java [:p2557.main()].executor": "Run",
-    "Gradle.wkdan_Java [:p2588.main()].executor": "Run",
-    "Gradle.wkdan_Java [:p2739.main()].executor": "Run",
-    "Gradle.wkdan_Java 빌드.executor": "Run",
-    "Gradle.wkdan_Java.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/JMY/IdeaProjects/AlgoMonkey_Study/wkdan_Java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.Main.executor": "Run",
-    "애플리케이션.PG_1845.executor": "Run",
-    "애플리케이션.asd.executor": "Run",
-    "애플리케이션.p10171.executor": "Run",
-    "애플리케이션.p10172.executor": "Run",
-    "애플리케이션.p10809.executor": "Run",
-    "애플리케이션.p10950.executor": "Run",
-    "애플리케이션.p10951.executor": "Run",
-    "애플리케이션.p10988.executor": "Run",
-    "애플리케이션.p11021.executor": "Run",
-    "애플리케이션.p11382.executor": "Run",
-    "애플리케이션.p1152.executor": "Run",
-    "애플리케이션.p1157.executor": "Run",
-    "애플리케이션.p14681.executor": "Run",
-    "애플리케이션.p1546.executor": "Run",
-    "애플리케이션.p15552.executor": "Run",
-    "애플리케이션.p2439.executor": "Run",
-    "애플리케이션.p2444.executor": "Run",
-    "애플리케이션.p2480.executor": "Run",
-    "애플리케이션.p25206.executor": "Run",
-    "애플리케이션.p2525.executor": "Run",
-    "애플리케이션.p25304.executor": "Run",
-    "애플리케이션.p25314.executor": "Run",
-    "애플리케이션.p2675.executor": "Run",
-    "애플리케이션.p2739.executor": "Run",
-    "애플리케이션.p2753.executor": "Run",
-    "애플리케이션.p27866.executor": "Run",
-    "애플리케이션.p2884.executor": "Run",
-    "애플리케이션.p2908.executor": "Run",
-    "애플리케이션.p2941.executor": "Run",
-    "애플리케이션.p3003.executor": "Run",
-    "애플리케이션.p8393.executor": "Run",
-    "애플리케이션.p9498.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.C:/Users/JMY/IdeaProjects/AlgoMonkey_Study/wkdan_Java/build.gradle.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.C:/Users/JMY/IdeaProjects/AlgoMonkey_Study/wkdan_Java/settings.gradle.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java [:BJ_01.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java [:PG_42577.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java [:p1000.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java [:p1001.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java [:p1008.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java [:p10430.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java [:p10869.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java [:p10926.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java [:p10998.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java [:p11382.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java [:p18108.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java [:p2557.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java [:p2588.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java [:p2739.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java 빌드.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.wkdan_Java.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JMY/IdeaProjects/AlgoMonkey_Study/wkdan_Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.PG_1845.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.asd.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p10171.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p10172.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p10809.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p10950.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p10951.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p10988.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p11021.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p11382.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p1152.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p1157.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p14681.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p1546.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p15552.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p2439.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p2444.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p2480.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p25206.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p2525.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p25304.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p25314.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p2675.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p2739.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p2753.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p27866.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p2884.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p2908.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p2941.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p3003.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p8393.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.p9498.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\JMY\IdeaProjects\AlgoMonkey_Study\wkdan_Java\src\main\java" />
@@ -208,7 +207,8 @@
       <workItem from="1734942074995" duration="6160000" />
       <workItem from="1734999020704" duration="11000" />
       <workItem from="1734999490705" duration="35169000" />
-      <workItem from="1735302633855" duration="11338000" />
+      <workItem from="1735302633855" duration="13432000" />
+      <workItem from="1735775801594" duration="676000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Baekjoon 1단계(입출력과 사칙연산) 문제 풀이 완료&#10;&#10;&#10;- 2557: Hello World&#10;- 1000: A+B&#10;- 1001: A-B&#10;- 10998: A*B&#10;- 1008: A/B&#10;- 10869: 사칙연산&#10;- 10926: ??!&#10;- 18108: 1998년생인 내가 태국에서는 2541년생?!&#10;- 10430: 나머지&#10;- 2588: 곱셈&#10;- 11382: 꼬마 정민&#10;- 10171: 고양이&#10;- 10172: 개">
       <option name="closed" value="true" />
@@ -338,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735311770229</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="PG: PG_42579&#10;&#10;&#10;- 베스트앨범 풀이 완료">
+      <option name="closed" value="true" />
+      <created>1735320318820</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735320318820</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,7 +367,8 @@
     <MESSAGE value="PG: PG_42576&#10;&#10;&#10;- 완주하지 못한 선수 문제 완료" />
     <MESSAGE value="PG: PG_42577&#10;&#10;&#10;- 전화번호 목록 문제 완료" />
     <MESSAGE value="PG: PG_42578&#10;&#10;&#10;- 의상 목록 풀이 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="PG: PG_42578&#10;&#10;&#10;- 의상 목록 풀이 완료" />
+    <MESSAGE value="PG: PG_42579&#10;&#10;&#10;- 베스트앨범 풀이 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="PG: PG_42579&#10;&#10;&#10;- 베스트앨범 풀이 완료" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
