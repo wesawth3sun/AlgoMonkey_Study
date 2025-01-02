@@ -1,7 +1,9 @@
-import java.util.HashMap;
+    import java.util.HashMap;
 
-public class Test2 {
-    public static void main(String[] args) {
+    public class PG_완주하지못한선수 {
+        public static void main(String[] args) {
+
+
         String[] participant = {"marina", "josipa", "nikola", "vinko", "filipa"};
         String[] completion = {"josipa", "filipa", "marina", "nikola"};
 
