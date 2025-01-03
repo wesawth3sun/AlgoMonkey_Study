@@ -1,3 +1,7 @@
+문제 상세 해설 ^.^
+https://velog.io/@suunn001/%EA%B0%99%EC%9D%80-%EC%88%AB%EC%9E%90%EB%8A%94-%EC%8B%AB%EC%96%B4-java
+
+
     import java.util.*;
 
     
