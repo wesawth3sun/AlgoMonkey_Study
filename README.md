@@ -17,6 +17,10 @@
 ```
 $ git fetch upstream
 ```
+- 다른 사람들의 파일 관련 commit 하지 말기!
+- 본인 파일만 commit하세요!
+
+- 본인 코드만 있는 파일만 커밋하세요!!
 
 
 ## ✏️ Solved List
