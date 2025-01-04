@@ -1,3 +1,6 @@
+문제 상세 해설 :
+https://velog.io/@suunn001/%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C-java
+
     import java.util.*;
 
     class Solution {
